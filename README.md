@@ -5,7 +5,7 @@ I anticipate that home page content, shown in the white area, goes here.
 
 <br>
 
-### Default.html
+### default.html
 
 The `_layouts/default.html` file has these content areas:
 
@@ -17,3 +17,13 @@ Middle area, white background.
 
 `<!-- FOOTER -->`  
 Bottom area, grey background. 
+
+<br>
+
+### assets / css / styles.scss
+
+Comment out the import theme.  
+Add in the import for the site theme.  
+
+
+<br>
