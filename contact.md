@@ -1,5 +1,5 @@
 ---
-title: Contact me
+title: Peter McIntyre - Contact me
 layout: default
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Timetable
+title: Peter McIntyre - Timetable
 layout: default
 ---
 
