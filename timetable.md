@@ -3,9 +3,9 @@ title: Peter McIntyre - Timetable
 layout: default
 ---
 
-### Timetable, Fall 2017 academic term
+### Timetable, Fall 2019 academic term
 
-The following is my timetable for the Fall 2017 academic term. 
+The following is my timetable for the Fall 2019 academic term. 
 
 Day | Tasks 
 --- | ---
