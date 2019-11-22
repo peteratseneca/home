@@ -19,10 +19,14 @@
 
 /* menu */
 
+.menu {
+  background-color: #1D9DDC;
+}
+
 /* Giving a background-color to the nav container. */
 nav {
   margin: 0 auto;
-  background-color: #1D9DDC;
+  padding: 0 10px;
 }
 
 /* Removing padding, margin and "list-style" from the "ul",
