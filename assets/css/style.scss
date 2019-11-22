@@ -16,3 +16,42 @@
 .inner {
   max-width: 960px;
 }
+
+/* menu */
+
+/* Giving a background-color to the nav container. */
+nav {
+  /* margin: 100px 0; */
+  background-color: #1D9DDC;
+}
+
+/* Removing padding, margin and "list-style" from the "ul",
+* and adding "position:reltive" */
+nav ul {
+  padding:0;
+  margin:0;
+  list-style: none;
+  position: relative;
+  }
+
+/* Positioning the navigation items inline */
+nav ul li {
+  margin: 0px -7px 0 0;
+  display:inline-block;
+  background-color: #1D9DDC;
+  }
+
+/* Styling the links */
+nav a {
+  display:block;
+  padding:0 10px;
+  color:#FFF;
+  font-size:20px;
+  line-height: 60px;
+  text-decoration:none;
+}
+
+/* Background color change on Hover */
+nav a:hover {
+  background-color: #000000;
+}
