@@ -1,41 +1,9 @@
-## Peter McIntyre
-Public web site home
+**Welcome**
 
-I anticipate that home page content, shown in the white area, goes here.
+This is the website for Peter McIntyre. I study and teach programming that uses web technologies, for both apps and services. I also teach iOS mobile app programming.
 
-<br>
+In the Fall 2019 term, I am teaching iOS mobile app programming.
 
-### Possible changes
+In addition to being a professor, I am also the BSD Program Coordinator. BSD is the Bachelor of Technology (Software Development) program that we started in September 2003. Whether you’re a student, faculty, administrator, or an interested community member, feel free to get me involved in any BSD program issue.
 
-The main background looks a little grey. Change to white?  
-Title "home" - change, and also the tagline.  
-
-<br>
-
-### default.html
-
-The `_layouts/default.html` file has these content areas:
-
-`<!-- HEADER -->`  
-Top area, grey background, too tall by default. 
-
-`<!-- MAIN CONTENT -->`  
-Middle area, white background. 
-
-`<!-- FOOTER -->`  
-Bottom area, grey background. 
-
-<br>
-
-### assets / css / styles.scss
-
-Comment out the import theme.  
-Add in the import for the site theme.  
-
-Use the Chrome dev tools inspector.  
-Use its select tool, then select the UI.  
-Look at the Styles list, and look for the rule.  
-Test it by changing it in the Chrome inspector.  
-Then add a new rule to the `styles.scss` file.  
-
-<br>
+Do you have a request? Send me email. I can probably handle your request that way. You can also request an appointment, or contact Joel Colesberry (the BSD program's student advisor). 
