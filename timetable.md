@@ -3,6 +3,16 @@ title: Peter McIntyre - Timetable
 layout: default
 ---
 
+### Year end 2019 notice
+
+The School of SDDS faculty and staff will not be available from Saturday, December 21, through Wednesday, January 1. 
+
+If you attempt to contact a faculty member or a staff member - including administrative leadership - it is likely that the attempt will not be answered until Thursday, January 2, or later. 
+
+The College campus (buildings and facilities) will be closed from December 24 through January 1, and will reopen on January 2. 
+
+<br>
+
 ### Timetable, Winter 2020 academic term
 
 The following is my timetable for the Winter 2020 academic term. 
