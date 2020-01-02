@@ -3,13 +3,13 @@ title: Peter McIntyre - Timetable
 layout: default
 ---
 
-### Year end 2019 notice
+### Winter 2020 academic term startup
 
-The School of SDDS faculty and staff will not be available from Saturday, December 21, through Wednesday, January 1. 
+Academic advisement is available on Thursday, January 2 and Friday, January 3. I will be available for drop-in visits on those days:
+* 11:00am to 12:00pm noon 
+* 2:00pm to 3:30pm 
 
-If you attempt to contact a faculty member or a staff member - including administrative leadership - it is likely that the attempt will not be answered until Thursday, January 2, or later. 
-
-The College campus (buildings and facilities) will be closed from December 24 through January 1, and will reopen on January 2. 
+However, email is the best way to get my attention and service.  
 
 <br>
 
@@ -20,13 +20,16 @@ The following is my timetable for the Winter 2020 academic term.
 Day | Tasks 
 --- | ---
 Monday | Off campus<br>Admin and project work
-Tuesday | Teach BTI425 section A at 8:00am in A2534<br>Teach BTI425 section B at 11:40am in A2534
-Wednesday | Usually on campus<br>Project work
+Tuesday | Teach BTI425 section A at 8:00am in A2534<br>Drop-in help time (for BTI425) at 9:50am<br>Teach BTI425 section B at 11:40am in A2534
+Wednesday | Usually on campus<br>Project work<br>BSD student drop-in help at 9:50am
 Thursday | Off campus<br>Admin and project work 
-Friday | Teach BTI425 at 1:30pm in K3010
+Friday | BSD student drop-in help at 12:35pm<br>Teach BTI425 at 1:30pm in K3010
 
-Drop-in student help times (for students in my BTI425 course) will be announced soon. 
+Drop-in student help times (for students in my BTI425 course):
+* Tuesdays at 9:50am 
 
-Drop-in times for any BSD student issue will be announced soon. 
+Drop-in times for any BSD student issue:
+* Wednesdays, 9:50am to 11:35am, in the SDDS office area 
+* Fridays, 12:35pm to 1:25pm, in the SDDS office area
 
 <br>
