@@ -3,16 +3,6 @@ title: Peter McIntyre - Timetable
 layout: default
 ---
 
-### Winter 2020 academic term startup
-
-Academic advisement is available on Thursday, January 2 and Friday, January 3. I will be available for drop-in visits on those days:
-* 11:00am to 12:00pm noon 
-* 2:00pm to 3:30pm 
-
-However, email is the best way to get my attention and service.  
-
-<br>
-
 ### Timetable, Winter 2020 academic term
 
 The following is my timetable for the Winter 2020 academic term. 
@@ -31,6 +21,8 @@ Drop-in student help times (for students in my BTI425 course):
 Drop-in times for any BSD student issue:
 * Wednesdays, 9:50am to 11:35am, in the SDDS office area 
 * Fridays, 12:35pm to 1:25pm, in the SDDS office area
+
+<br>
 
 <img src="/media/timetable-2020-winter-v1.png" alt="Timetable" class="border1">
 

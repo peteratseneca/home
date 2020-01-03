@@ -32,3 +32,15 @@ Test it by changing it in the Chrome inspector.
 Then add a new rule to the `styles.scss` file.  
 
 <br>
+
+<mark>cut after the start of the Winter 2020 term</mark>
+
+### Winter 2020 academic term startup
+
+Academic advisement is available on Thursday, January 2 and Friday, January 3. I will be available for drop-in visits on those days:
+* 11:00am to 12:00pm noon 
+* 2:00pm to 3:30pm 
+
+However, email is the best way to get my attention and service.  
+
+<br>
