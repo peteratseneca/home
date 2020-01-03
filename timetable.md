@@ -32,4 +32,6 @@ Drop-in times for any BSD student issue:
 * Wednesdays, 9:50am to 11:35am, in the SDDS office area 
 * Fridays, 12:35pm to 1:25pm, in the SDDS office area
 
+<img src="/media/timetable-2020-winter-v1.png" alt="Timetable" class="border1">
+
 <br>
