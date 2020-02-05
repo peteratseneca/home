@@ -24,6 +24,6 @@ Drop-in times for any BSD student issue:
 
 <br>
 
-<img src="/media/timetable-2020-winter-v1.png" alt="Timetable" class="border1">
+<img src="/media/timetable-2020-winter-v2.png" alt="Timetable" class="border1">
 
 <br>
