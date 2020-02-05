@@ -31,9 +31,9 @@ Toronto, ON M2J2X5
 
 I'm a busy guy. Depending on the situation, our program's student advisor may be able to help you, if I am not available or am slow to reply to a contact attempt:
 
-Joel Colesberry  
+Carol Ann David  
 
-He has some drop-in availability every day, and can be contacted by email at joel.colesberry -at- senecacollege.ca. 
+She has some drop-in availability every day, and can be contacted by email at carolann.david -at- senecacollege.ca. 
 
 <br>
 
