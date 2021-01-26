@@ -1,3 +1,3 @@
-Existing photos
-
-Faucet
+Click | &nbsp; | &nbsp;
+--- | --- | ---
+Existing photos | [Faucet](faucet) | Range hood

@@ -9,11 +9,17 @@ Want a faucet that is similar to what we had from 2015 through 2021. WaterRidge 
 
 ![Faucet](media/waterridge-valencia-faucet.jpg)
 
+Search for:  
+* commercial kitchen faucet  
+* pro kitchen faucet
+
 <br>
 
-### Major section
+### Manufacturers
 
-etc.
+[Grohe](https://grohe.ca)
+
+
 
 <br>
 
