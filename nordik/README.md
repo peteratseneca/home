@@ -1,11 +1,12 @@
 ## Content for Nordik...
 
-Click the "download" link to fetch each item.
+Click the "view" link to fetch each item.<br/>
+Then right-click and save on your own computer.
 
-Item | Download Link
+Item | View Link
 --- | ---
-Northern Comfort quotation | [download](../media/nc-quotation.jpg) 
-Northern Comfort services contract | [download](../media/nc-services-contract.jpg) 
-Taymor London Handleset brochure | [download](../media/taymor-brochure.pdf) 
-Taymor London Handleset parts | [download](../media/taymor-handleset-parts.pdf)
-Taymor warranty | [download](../media/warranty.pdf) 
+Northern Comfort quotation | [view](../media/nc-quotation.jpg) 
+Northern Comfort services contract |[view](../media/nc-services-contract.jpg) 
+Taymor London Handleset brochure | [view](../media/taymor-brochure.pdf) 
+Taymor London Handleset parts | [view](../media/taymor-handleset-parts.pdf)
+Taymor warranty | [view](../media/taymor-warranty.pdf) 
