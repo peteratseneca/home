@@ -1,7 +1,7 @@
 ## Content for Nordik...
 
 Click the "view" link to fetch each item.<br/>
-Then right-click and save on your own computer.
+Then save onto your own computer.
 
 Item | View Link
 --- | ---
